@@ -1,6 +1,6 @@
 baseURL       = "https://yashparna.netlify.app"
 languageCode  = "en-us"
-title         = "Yashparna"
+title         = "Yashparna De"
 theme = "roxo-hugo"
 summarylength = 25
 
