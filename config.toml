@@ -69,7 +69,7 @@ summarylength = 25
     title               = "QUESTIONS?"
     primary_button      = "Submit Query"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
+    secondary_button    = "Go through works again"
     secondary_button_url = "portfolio"
 
   [params.footer]
