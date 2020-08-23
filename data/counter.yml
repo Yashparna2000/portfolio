@@ -1,5 +1,5 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "KEEPING COUNT"
 counter_item: 
   - title: "Ongoing projects"
     number: "2"
