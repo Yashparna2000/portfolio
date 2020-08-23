@@ -1,6 +1,6 @@
 enable  : true
-title   : "OPINION FROM REAL PEOPLE"
-subtitle: "What clients says about our services."
+title   : "TESTIMONIALS"
+subtitle: "What can be asserted without proof, can be dismissed without proof"
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
     name  : "Simonns Hodge"
