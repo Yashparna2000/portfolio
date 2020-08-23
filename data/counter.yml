@@ -1,14 +1,13 @@
 enable : true
 heading : "KEEPING COUNT"
 counter_item: 
-  - title: "Ongoing projects"
+  - title: "Projects taken up"
     number: "2"
 
-  - title: "Projects Completed"
-    number: "1"
+  - title: "Programming languages learnt"
+    number: "2"
 
   - title: "Blogs written"
     number: "4"
 
-  - title: "Current semester"
-    number: "4th"
+ 

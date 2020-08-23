@@ -1,6 +1,6 @@
 ---
 date: "2018-07-12T18:19:33+06:00"
-description: I am currently persuing my B.E. in electronics and communications while parallelly working on various prjects such as spatial data analysis, image recognition and automation.I worked with a range of languages and softwares and am willing to learn more.Active in different art, music and sports categories. For my resume, check out the portfolio section
+description: I am currently persuing my B.E. in electronics and communications while parallelly working on various prjects such as spatial data analysis, image recognition and automation.I worked with a range of languages and softwares. An avid learner and active in different co-curriculars. For resume, check out portfolio section
 expertise_sectors:
 - Data analysis and manipulation using R
 - Python for automation
