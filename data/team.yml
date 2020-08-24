@@ -6,12 +6,12 @@ members  :
     designation : Spatial data analysis
    
 
-  - image       : images/team/logo-test.jpg
+  - image       : images/team/wipro.png
     name        : WIRIN (WIPRO and IISc)
     designation : Annotation for autonomous vehicle
 
 
-  - image       : images/team/google.jpg
+  - image       : images/team/google1.png
     name        : Google 
     designation : Facial recognition-ML using python (under verzeo)
 

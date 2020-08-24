@@ -1,6 +1,6 @@
 ---
 category:
-- PRODUCT DESIGN
+- PROJECT
 date: "2019-12-23T15:56:43+06:00"
 image: images/projects/project-thumb-two.jpg
 project_images:
