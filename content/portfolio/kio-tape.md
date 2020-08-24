@@ -6,4 +6,4 @@ image: images/projects/project-thumb-four.jpeg
 title: RESUME
 type: portfolio
 ---
-[Click here for resume](https://yashparna.netlify.app/about/Yashparna_De_CV.pdf)
+[Click here for resume](https://yashparna.netlify.app/Yashparna_De_CV.pdf)
