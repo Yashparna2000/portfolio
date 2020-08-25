@@ -6,54 +6,45 @@
     <description>Recent content on Yashparna De</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2019 13:45:06 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 13:32:54 +0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Design Inspiration: The Best Projects From December</title>
-      <link>/blog/design-inspiration-the-best-projects-from-december/</link>
-      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      
-      <guid>/blog/design-inspiration-the-best-projects-from-december/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    
-    <item>
-      <title>The 10 Biggest Rebrands and Logo Designs of 2019</title>
-      <link>/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</link>
-      <pubDate>Tue, 24 Dec 2019 13:40:00 +0600</pubDate>
-      
-      <guid>/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    
-    <item>
-      <title>Design Inspiration: The Best Projects From November</title>
-      <link>/blog/design-inspiration-the-best-projects-from-november/</link>
-      <pubDate>Tue, 24 Dec 2019 13:36:06 +0600</pubDate>
-      
-      <guid>/blog/design-inspiration-the-best-projects-from-november/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    
-    <item>
-      <title>Pt Chooses Classic Blue for Its Colour of the Year 2020</title>
+      <title>False Dichotomy in data science</title>
       <link>/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</link>
-      <pubDate>Tue, 24 Dec 2019 13:32:54 +0600</pubDate>
+      <pubDate>Tue, 25 Aug 2020 13:32:54 +0600</pubDate>
       
       <guid>/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+      <description>-Philosophy or data science? In one of my previous blogs, I’ve already discussed a logical data fallacy called correlation causation fallacy (To read that blog post, go back to portfolio section).</description>
     </item>
     
     <item>
-      <title>The 10 Biggest Product Stories of 2019</title>
-      <link>/blog/the-10-biggest-product-stories-of-2019/</link>
-      <pubDate>Tue, 24 Dec 2019 12:58:17 +0600</pubDate>
+      <title>Supervised machine learning algorithms</title>
+      <link>/blog/design-inspiration-the-best-projects-from-november/</link>
+      <pubDate>Mon, 24 Aug 2020 13:36:06 +0600</pubDate>
       
-      <guid>/blog/the-10-biggest-product-stories-of-2019/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+      <guid>/blog/design-inspiration-the-best-projects-from-november/</guid>
+      <description>-Differences and similarities, Where to use what? We know that there are numerous algorithms that can be used for modeling in data science. But with just data given with no specifications, its difficult to understand which one to use where.</description>
+    </item>
+    
+    <item>
+      <title>The correlation-Causation fallacy</title>
+      <link>/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</link>
+      <pubDate>Sun, 23 Aug 2020 13:40:00 +0600</pubDate>
+      
+      <guid>/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</guid>
+      <description>If correlation does not imply causation, what does? **How do we apply this to our learning? What do we consider while analyzing data or for machine learning?</description>
+    </item>
+    
+    <item>
+      <title>R for dummies</title>
+      <link>/blog/design-inspiration-the-best-projects-from-december/</link>
+      <pubDate>Sat, 22 Aug 2020 13:45:06 +0600</pubDate>
+      
+      <guid>/blog/design-inspiration-the-best-projects-from-december/</guid>
+      <description>-How I stated with R New to R? Interested in Data science? This is a short blog on how I started learning R and understanding how to use and utilize it.</description>
     </item>
     
     <item>

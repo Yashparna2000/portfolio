@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8" />
-  <title>Pt Chooses Classic Blue for Its Colour of the Year 2020</title>
+  <title>False Dichotomy in data science</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -102,36 +102,62 @@
     <div class="row justify-content-center">
       <div class="col-lg-8">
         <article class="site-blog-details">
-          <p><span>December 24, 2019</span> by <span>Alexender Schoitiz</span></p>
-          <h2 class="blog-title">Pt Chooses Classic Blue for Its Colour of the Year 2020</h2>
-          <img class="feature-image" src="/images/blog/blog-details-image.jpg" alt="blog-feature-image">
-          <h3 id="black-lines-brand-identity-by--smith">Black Lines brand identity, by &amp; Smith</h3>
-<p>Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.</p>
-<ol>
-<li>ROFL means Rolling on floor laughing.</li>
-<li>STFU means Shut the <em>freak</em> up.</li>
-<li>LMK means Let me know.</li>
-<li>ILY means I love you.</li>
-<li>YOLO means You only live once.</li>
-<li>SMH means Shaking my head.</li>
-</ol>
-<p>The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio &amp; Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to &amp; Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.</p>
-<ol>
-<li>ROFL means Rolling on floor laughing.</li>
-<li>STFU means Shut the <em>freak</em> up.</li>
-<li>LMK means Let me know.</li>
-<li>ILY means I love you.</li>
-<li>YOLO means You only live once.</li>
-<li>SMH means Shaking my head.</li>
-</ol>
-<p><img src="https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg" alt="blog-details-image-02"></p>
-<p>Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.</p>
+          <p><span>August 25, 2020</span> by <span>Yashparna De</span></p>
+          <h2 class="blog-title">False Dichotomy in data science</h2>
+          <img class="feature-image" src="/images/blog/FD.jpg" alt="blog-feature-image">
+          <h3 id="-philosophy-or-data-science">-Philosophy or data science?</h3>
+<p><em>In one of my previous blogs, I’ve already discussed a logical data fallacy called correlation causation fallacy (To read that blog post, go back to portfolio section).</em>
+<em>Here I’m going to discuss another fallacy that I recently discovered could be considered a data fallacy after some thinking. In this blog post, I’m going to tell about how and why I think its logical data fallacy that should be considered for data analysis.</em></p>
+<p><img src="C:%5CUsers%5COwner%5CDocuments%5Cportfolio%5Cstatic%5Cimages%5Cblog%5Cfd1.jpg" alt="image"></p>
+<p>To start off, what exactly is dichotomy?</p>
+<p>I came across this term while going through a course in philosophy in a part that was explaining about arguments. It is considered one of the logical fallacies.</p>
+<p><strong>Fallacies are common errors in reasoning that will undermine the logic of your argument. Fallacies can be either illegitimate arguments or irrelevant points, and are often identified because they lack evidence that supports their claim.</strong></p>
+<p><strong>Dichotomy</strong> is basically a division or contrast between two things that are or are represented as being opposed or entirely different, like right or wrong.
+A false dichotomy is when, an argument falsely assumes that there are only two possibilities, when in fact, there are more than two possibilities.</p>
+<p>Example, when our friends say that we’ll have to go to some place with them otherwise we will get bored. Here the argument is assuming that there are only two options, two possibilities. Whereas that’s not true.</p>
+<p>For a more data driven definition, we can say that false dichotomy assumes binary states, when that is not the case.
+It says that it can be either X or Y.</p>
+<p><img src="C:%5CUsers%5COwner%5CDocuments%5Cportfolio%5Cstatic%5Cimages%5Cblog%5Cfd2.jpg" alt="image"></p>
+<p>When we keep only binary inputs, we sometimes fail to see and consider the other conditions and variable that could affect out outcome.
+Example, consider that I’m trying to sell a two dresses online. I keep an offer of buy 2 get Rs. 100 off and give the link to few selective people. No one ends up buying the dresses. I assume that my offer wasn’t something worth and hence blame it on the price and offer I set. I fail to realize that the reason might also be that the audience to whom I have given the link aren’t the right customers. Or that the link was broken and hence no one could contact me thereafter.</p>
+<p>The same case, if I apply to data science, we can see that we analyze our results with respect to some variables that affect the output (Correlation –causation) and we also ignore some variables that are coming less significant when trying to fit in some particular model.  Sometimes even our accuracy increases when we remove the insignificant variables. But sometimes its better to keep in the variables.</p>
 <blockquote>
-<p>&ldquo;The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.&rdquo;</p>
+<p>It all depends on what kind of final output we want.</p>
 </blockquote>
-<blockquote>
-<p>Paul Rand, graphic designer</p>
-</blockquote>
+<p><strong>When to remove and when to keep the insignificant variables?</strong></p>
+<p>Its important to understand what to do with the insignificant variables in order to get the optimal output that we need.</p>
+<p><strong>When to keep :</strong></p>
+<ol>
+<li>
+<p>Very few variables present.</p>
+<p>For the data to be dependent on some variable, its better to take all variables into account for increasing accuracy. It might decrease the flexibility ( Decision trees) but its still a good model.</p>
+</li>
+<li>
+<p>You want to show what all are controlling your output.</p>
+<p>We need to consider that even though less significant, it still has some effect on the output considered.</p>
+</li>
+<li>
+<p>Predictors you have specific hypotheses about.</p>
+</li>
+</ol>
+<p>Another example is if the point of a model is to specifically test a predictor–you have a hypothesis about a predictor and it’s meaningful to show that it’s not significant. In that case, I would leave it in, even if not significant.</p>
+<ol start="4">
+<li>Items involved in higher-order terms</li>
+</ol>
+<p>When you take out a term that is involved in something higher, like a two-way interaction that is part of a three-way interaction, you actually change the meaning of the higher order term.  The sums of squares for each higher-order term is based on comparisons to specific means and represents variation around that mean.
+If you take out the lower order term, that variation has to be covered somewhere, and it’s usually not where you expect it.  For example, a two-way interaction represents the variation in cell means around the main effect means.  But if the variation between the main effect means isn’t measured with a main effect term, it ends up in the interaction, and that interaction doesn’t reflect the variation it did if the main effect were in the model.</p>
+<p><strong>When to not:</strong></p>
+<p>I’ll only state a few reason from the top of my head and not go into details because this one we already know pretty well.</p>
+<ol>
+<li>We have limit to the number of variables we can use.</li>
+</ol>
+<p>Sometimes when we have large dataset with many variables, the data will become too rigid for our test cases and the model making will also take up huge amount of time.</p>
+<ol start="2">
+<li>Strongly related variables.</li>
+</ol>
+<p>When there is a strong correlation between two variables, we can safely assume that the change in output with respect to one will be almost same as the change in output to the other. Hence we don’t need to include unnecessary extras.</p>
+<p>There are few other reasons too why we need to consider or not consider the variables.</p>
+<p>To conclude, as we already know  that analytical thinking and basic common sense is the basis of solving data science problem. Solving this false dichotomy also boils down to <strong>do what you need to  get the output that you need. But make sure to play by the rules.</strong></p>
 
         </article>
       </div>
