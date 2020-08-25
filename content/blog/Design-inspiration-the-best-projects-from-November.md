@@ -7,6 +7,7 @@ title: 'Supervised machine learning algorithms'
 ---
 ### -Differences and similarities, Where to use what?
 
+
 We know that there are numerous algorithms that can be used for modeling in data science. But with just data given with no specifications, its difficult to understand which one to use where. In this blog post I’m going to focus on supervised learning, i.e.  Regression and classification. The similarities, differences and their use.
 
 Classification and Regression are two major prediction problems which are usually dealt in Data mining. Predictive modelling is the technique of developing a model or function using the historic data to predict the new data.
@@ -27,7 +28,7 @@ Example: Rainfall in a particular area.
 >Differences and similarities?
 
 
-![difference example](C:\Users\Owner\Documents\portfolio\static\images\blog\cr2.png)
+![difference example](images/blog/cr2.png)
 
 
 Regression and classification are categorized under the same umbrella of supervised machine learning. Both share the same concept of utilizing known datasets (referred to as training datasets) to make predictions.
@@ -53,7 +54,7 @@ In this case, y is a category that the mapping function predicts. If provided wi
 For example, when provided with a dataset about houses, a classification algorithm can try to predict whether the prices for the houses “sell more or less than the recommended retail price.”
 Here, the houses will be classified whether their prices fall into two discrete categories: above or below the said price.
 
-![differences](C:\Users\Owner\Documents\portfolio\static\images\blog\cr3.jpg)
+![differences](images/blog/cr3.jpg)
 
 
 Seeing and understanding the above differences, is the basic step towards understanding and knowing what method to use where and will help us in applying the respective to our data set. 

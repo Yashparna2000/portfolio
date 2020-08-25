@@ -8,9 +8,11 @@ title: False Dichotomy in data science
 ### -Philosophy or data science?
 
 *In one of my previous blogs, I’ve already discussed a logical data fallacy called correlation causation fallacy (To read that blog post, go back to portfolio section).*
+
+
 *Here I’m going to discuss another fallacy that I recently discovered could be considered a data fallacy after some thinking. In this blog post, I’m going to tell about how and why I think its logical data fallacy that should be considered for data analysis.*
 
-![image](C:\Users\Owner\Documents\portfolio\static\images\blog\fd1.jpg)
+![](images/blog/fd1.jpg)
 
 
 To start off, what exactly is dichotomy?
@@ -28,7 +30,7 @@ For a more data driven definition, we can say that false dichotomy assumes binar
 It says that it can be either X or Y.
 
 
-![image](C:\Users\Owner\Documents\portfolio\static\images\blog\fd2.jpg)
+![image](images/blog/fd2.jpg)
 
  
  When we keep only binary inputs, we sometimes fail to see and consider the other conditions and variable that could affect out outcome.
