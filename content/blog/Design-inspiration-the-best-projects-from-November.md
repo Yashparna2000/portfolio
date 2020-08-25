@@ -28,7 +28,7 @@ Example: Rainfall in a particular area.
 >Differences and similarities?
 
 
-![difference example](images/blog/cr2.png)
+![difference example](/images/blog/cr2.png)
 
 
 Regression and classification are categorized under the same umbrella of supervised machine learning. Both share the same concept of utilizing known datasets (referred to as training datasets) to make predictions.
@@ -54,7 +54,7 @@ In this case, y is a category that the mapping function predicts. If provided wi
 For example, when provided with a dataset about houses, a classification algorithm can try to predict whether the prices for the houses “sell more or less than the recommended retail price.”
 Here, the houses will be classified whether their prices fall into two discrete categories: above or below the said price.
 
-![differences](images/blog/cr3.jpg)
+![differences](/images/blog/cr3.jpg)
 
 
 Seeing and understanding the above differences, is the basic step towards understanding and knowing what method to use where and will help us in applying the respective to our data set. 

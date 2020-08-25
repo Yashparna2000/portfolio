@@ -24,9 +24,8 @@ Before getting into working with R, it is important to learn the basics about da
 
 As we said before, R itself does not have a graphical interface, but most people interact with R through graphical platforms that provide extra functionality. We will be using a program called RStudio as a graphical front-end to R, so that we can access our scripts and data, find help, and preview plots and outputs all in one place. Google R and Rstudio and you’ll find the link for both. Download the latest version.
 
-```{r echo=FALSE, out.width="100%", fig.align='center'}
-knitr::include_graphics("C:/Users/Owner/Documents/portfolio/static/images/blog/r2.png")
-```
+
+![image](/images/blog/r2.png)
 
 **•	Understand basic codes**
 

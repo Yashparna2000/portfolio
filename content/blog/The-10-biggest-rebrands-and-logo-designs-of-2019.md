@@ -14,7 +14,7 @@ title: 'The correlation-Causation fallacy'
 It is surprising how news can frame a mindset through properly framing the content and making use of the fact that correlation means causation. As I was going through the news of the rise in covid cases, I came across the article which stated which city is safest to stay at the moment and we were happy we weren’t staying in Mumbai which was called the least safe.
 But when we take a step back and think, we are correlating a place with the number of cases and its safety, not taking in other factors such as the medical facility, the number of recoveries etc.
 
-![news clipping](images/blog/cc1.jpg)
+![news clipping](/images/blog/cc1.jpg)
 
 
  This made me think, how many times do we come across such examples where we assume correlation means causation?
@@ -34,7 +34,7 @@ Now that we know the basic difference and definition of both, let us now check o
 
 **Correlation does not necessarily imply causation:**
 
-![graph](images/blog/.png)
+![graph](/images/blog/cc2.png)
 
 
 As we can see from the above example, correlation does not always imply causation. We can find many such examples and hence proving this fact (click [here](https://www.tylervigen.com/spurious-correlations) to go through this site for more examples just for fun)
@@ -70,7 +70,7 @@ There are few ways in which leads to causation in data science that can be consi
 (Click [here](https://insights.principa.co.za/5-correlation-types-in-data-science-and-how-to-not-fool-yourself)  to know more)   
 
 
-![chart](images/blog/cc3.png)
+![chart](/images/blog/cc3.png)
 
 
 Hence, although we work with correlation between variables in ML and data analysis, keeping the above points in mind we can conclude that, **Correlation might and might not imply causation. It’s up to you.**

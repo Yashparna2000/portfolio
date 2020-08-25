@@ -12,7 +12,7 @@ title: False Dichotomy in data science
 
 *Here I’m going to discuss another fallacy that I recently discovered could be considered a data fallacy after some thinking. In this blog post, I’m going to tell about how and why I think its logical data fallacy that should be considered for data analysis.*
 
-![](./images/blog/fd1.jpg')
+![image](/images/blog/fd1.jpg)
 
 
 To start off, what exactly is dichotomy?
@@ -29,10 +29,8 @@ Example, when our friends say that we’ll have to go to some place with them ot
 For a more data driven definition, we can say that false dichotomy assumes binary states, when that is not the case.
 It says that it can be either X or Y.
 
-```{r echo=FALSE, out.width="100%", fig.align='center'}
-knitr::include_graphics("C:/Users/Owner/Documents/portfolio/static/images/blog/fd2.jpg")
-```
 
+![image](/images/blog/fd2.jpg)
 
  
  When we keep only binary inputs, we sometimes fail to see and consider the other conditions and variable that could affect out outcome.
