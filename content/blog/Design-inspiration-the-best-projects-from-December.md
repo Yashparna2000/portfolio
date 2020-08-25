@@ -2,7 +2,7 @@
 author: Yashparna De
 date: "2020-08-22T13:45:06+06:00"
 feature_image: images/blog/r1.jpg
-image: images/blog/r.jpg
+image: images/blog/rrr.jpg
 title: 'R for dummies'
 ---
 ### -How I stated with R
