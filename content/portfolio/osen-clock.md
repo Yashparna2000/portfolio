@@ -8,6 +8,6 @@ type: portfolio
 ---
  In this project done under ECE dept. RVCE, we have tried to make an automatic time table generator that gives the optimal solution to the inputs given. Java script has been used with basic genetic algorithm.
  
-![image](/images/blog/tt1.jpg)
+![image](/images/projects/tt1.jpg)
 
-![image](/images/blog/tt3.jpg)
+![image](/images/projects/tt3.jpg)

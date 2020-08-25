@@ -9,11 +9,11 @@ type: portfolio
 
 1) Analysis of projectile motion using tracker:
 
-![image](/images/blog/p1.jpg)
+![image](/images/projects/p1.jpg)
 
 
 
 2) Ongoing project WIRIN (WIPRO and IISc) on vehicle automation working under the annotation team.
 The work includes annotating images and then working on with training the data using the set of images.
 
-![image](/images/blog/wirin.jpg)
+![image](/images/projects/wirin.jpg)

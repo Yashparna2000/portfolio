@@ -10,4 +10,4 @@ type: portfolio
 This project is being done under softanbees.
 The project include analysis of sentinel 2 data for understanding vegetation extend for perticular area. The analysis on implementation and conclusion is under progress/
 
-![image](/images/blog/s1.jpg)
+![image](/images/projects/s1.jpg)
